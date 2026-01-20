@@ -1,1 +1,1 @@
-This is a git directory
+This is an updated git directory README
